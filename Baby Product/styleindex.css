@@ -1,0 +1,77 @@
+p {
+  text-indent: 20px;
+  color: white;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+h1 {
+   color: white;
+   text-align: center;
+   font-family: sans-serif;
+}
+h3 {
+  color:white;
+}
+
+
+a {
+  color: white;
+
+}
+table,th,td {
+  font-size: 20px;
+  color: white;
+  border: 2.5px solid black;
+  border-collapse: collapse;
+}
+th:hover{
+  background-color: pink;
+}
+td:hover {
+  background-color: green;
+}
+img {
+  width: 100px; height: 100px;
+  filter: grayscale(100%);
+  padding: 10px;
+  
+}
+img:hover {
+  filter:grayscale(0%);
+}
+
+body {
+  background-color: #568f8f;
+  background-image: url('baby image.jpg');
+  background-blend-mode: soft-light;
+  scroll-behavior: smooth;
+}
+.tableclass {
+  background-color: grey;
+  position: relative;
+  bottom: 50px;
+}
+.pclass {
+  text-align:center;
+  text-overflow: ellipsis;
+}
+.spanclass {
+  background-color:grey;
+  background-blend-mode:soft-light;
+}
+.dcclass {
+  float: left;
+  image-resolution: snap;
+  width: auto;
+}
+.divclass {
+  color: white;
+  word-wrap: break-word;
+}
+.header {
+  background-color: grey;
+  padding: 10px;
+  text-align: center;
+  border: 1px
+}

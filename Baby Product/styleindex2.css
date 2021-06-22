@@ -1,0 +1,89 @@
+.navbar-brand {
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration:underline;
+  font-weight: bolder;
+}
+.card-footer{
+  text-align: center;
+  font-style: normal;
+  font-family: cursive;
+}
+.btn-primary{
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 3px;
+}
+.text-muted:hover{
+  filter: drop-shadow(70%);
+}
+.card-title:hover {
+  color: darkgreen;
+}
+.card-title2{
+  color: green;
+  text-decoration: underline;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.card-title3{
+  color: blue;
+  text-decoration: underline;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.card-title4 {
+  color: Orange;
+  text-decoration: underline;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.card-img-top {
+  width:1250px; height:350px;
+  filter: grayscale(70%);
+  padding-left: 30px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-bottom:3px;
+  margin-right: 5px;
+}
+.mb-3 {
+  border-bottom: 2.5px solid grey;
+  margin-bottom: 40px;  
+}
+.card-img-top:hover{
+  filter: grayscale(0%);
+}
+.dropdown-item:hover{
+  background-color: lightblue;
+}
+.card-body{
+  text-align: center;
+  font-style: normal;
+  font-family: sans-serif;
+}
+.card-title {
+  font-weight: bold;
+  font-size: 25px;
+  font-language-override: normal;
+}
+.card-text {
+  font-family:cursive;
+  font-size: 14px
+}
+.card-group {
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-top: 10;
+
+
+}
+.card-img-top2{
+  width: 400px; height: 300px;
+  filter: drop-shadow(50%);
+}
+.btn-outline-primary{
+  margin-left: 50px;
+  margin-right:50px;
+  margin-bottom: 3px;
+}
